@@ -2,8 +2,8 @@
 
 meu nome: Welligton Kulis Gonçalves 
 
-  ●estou estudando na alura 
-  ●estou me desenvolvendo na linguagem javascript
+  ●estou estudando na na escola colégio Tiradentes 
+  ●estou me desenvolvendo na linguagem javascript e pensamento computacional 
   ●Utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
    desenvolvidos
 
